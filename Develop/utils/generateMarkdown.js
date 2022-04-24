@@ -12,23 +12,52 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `
+  # ${data.title}
   ${renderLicenseBadge(data.license)}
 
-  ##Description
-  *${data.description}
-  ##Tample of Content
-  ##Installation
-  *${data.installation}
-  ##Usage
-  *${data.usage}
-  ##Credits
-  ##License
-  *${data.license}
-  ##Badges
-  ##Features
-  ##Questions
-  *${data.email}
+  ## Description
+
+  * ${data.description}
+
+  ## Tample of Content
+
+  * [Installation](#installation)
+  
+  * [Usage](#usage)
+  
+  * [Contributing](#contributing)
+
+  * [Tests](#tests)
+
+  * [License](#license)
+
+  ## Installation
+  ${data.installation}
+
+  ## Usage
+  ${data.usage}
+
+  ## Credits
+  ${data.credits}
+
+  ## License
+  ${data.license}
+
+  ## Badges
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${data.github}/${data.repo}?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${data.github}/${data.repo}?style=flat&logo=appveyor)
+  
+  Check out the badges hosted by [shields.io](https://shields.io/).
+
+  ## Features
+  ${data.features}
+
+  ## Questions
+  
+  For any questions, please contact me with the information below:
+ 
+  * GitHub: [@${data.github}](${data.github})
+  * Email: [@${data.email}](${data.email})
 `;
 }
 
