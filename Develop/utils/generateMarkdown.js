@@ -58,6 +58,8 @@ function generateMarkdown(data) {
  
   * GitHub: [@${data.github}](${data.github})
   * Email: [@${data.email}](${data.email})
+
+  [Top](#${data.title})
 `;
 }
 

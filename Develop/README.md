@@ -1,12 +1,10 @@
 
-  # Readme Gen
+  # Readme
   undefined
 
   ## Description
 
-  * Your GitHub profile is an extremely important aspect of your public identity as a developer.
-
-  * This is a very good app.
+  * This is a cool project.
 
   ## Tample of Content
 
@@ -24,21 +22,21 @@
   NPM Install
 
   ## Usage
-  Use Chrome
+  USe VS Code
 
   ## Credits
   Michelle
 
   ## License
-  MIT
+  APACHE
 
   ## Badges
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/readmecreator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/readmecreator?style=flat&logo=appveyor)
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/readmcreator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/readmcreator?style=flat&logo=appveyor)
   
   Check out the badges hosted by [shields.io](https://shields.io/).
 
   ## Features
-  kamehame
+  Button that will take you to the top of the page.
 
   ## Questions
   
@@ -46,3 +44,5 @@
  
   * GitHub: [@djpdim](djpdim)
   * Email: [@dimospagkas@yahoo.gr](dimospagkas@yahoo.gr)
+
+  [Top](#Readme)
