@@ -1,10 +1,10 @@
 
-  # Readme
+  # README
   undefined
 
   ## Description
 
-  * This is a cool project.
+  * THIS IS COOL
 
   ## Tample of Content
 
@@ -19,30 +19,30 @@
   * [License](#license)
 
   ## Installation
-  NPM Install
+  ADS
 
   ## Usage
-  USe VS Code
+  ASD
 
   ## Credits
-  Michelle
+  ASD
 
   ## License
-  APACHE
+  MIT
 
   ## Badges
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/readmcreator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/readmcreator?style=flat&logo=appveyor)
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/readmecreator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/readmecreator?style=flat&logo=appveyor)
   
   Check out the badges hosted by [shields.io](https://shields.io/).
 
   ## Features
-  Button that will take you to the top of the page.
+  ASD
 
   ## Questions
   
   For any questions, please contact me with the information below:
  
   * GitHub: [@djpdim](djpdim)
-  * Email: [@dimospagkas@yahoo.gr](dimospagkas@yahoo.gr)
+  * Email: [DADS](DADS)
 
-  [Top](#Readme)
+  [Top](#description)
