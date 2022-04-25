@@ -5,9 +5,13 @@
 
   * This is very cool
 
+
   ## Link to the app
   
-  [readmecreator](https://djpdim.github.io/readmecreator/)
+  Link to the github app: [readmecreator](https://github.com/djpdim/readmecreator)
+
+  Link to the github page: [readmecreator](https://djpdim.github.io/readmecreator/)
+
 
   ## Tample of Content
 
@@ -21,25 +25,32 @@
 
   * [License](#license)
 
+
   ## Installation
-  NPM install
+  NPM Install
+
 
   ## Usage
-  VS Code
+  Use VS Code
+
 
   ## Credits
   
 
+
   ## License
-  APACHE
+  MIT
+
 
   ## Badges
   ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/readmecreator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/readmecreator?style=flat&logo=appveyor)
   
   Check out the badges hosted by [shields.io](https://shields.io/).
 
+
   ## Features
-  There is a top button
+  
+  
 
   ## Questions
   

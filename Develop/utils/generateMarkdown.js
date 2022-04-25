@@ -22,7 +22,9 @@ function generateMarkdown(data) {
 
   ## Link to the app
   
-  [${data.repo}](https://${data.github}.github.io/${data.repo}/)
+  Link to the github app:[${data.repo}](https://github.com/${data.github}/${data.repo})
+  
+  Link to the github page:[${data.repo}](https://${data.github}.github.io/${data.repo}/)
 
   ## Tample of Content
 
