@@ -27,11 +27,11 @@
 
 
   ## Installation
-  NPM Install
+  * NPM Install
 
 
   ## Usage
-  Use VS Code
+  * Use VS Code
 
 
   ## Credits
@@ -39,7 +39,7 @@
 
 
   ## License
-  MIT
+  * MIT
 
 
   ## Badges
@@ -50,7 +50,7 @@
 
   ## Features
   
-  
+
 
   ## Questions
   

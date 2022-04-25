@@ -23,7 +23,7 @@ function generateMarkdown(data) {
   ## Link to the app
   
   Link to the github app:[${data.repo}](https://github.com/${data.github}/${data.repo})
-  
+
   Link to the github page:[${data.repo}](https://${data.github}.github.io/${data.repo}/)
 
   ## Tample of Content
@@ -39,16 +39,16 @@ function generateMarkdown(data) {
   * [License](#license)
 
   ## Installation
-  ${data.installation}
+  * ${data.installation}
 
   ## Usage
-  ${data.usage}
+  * ${data.usage}
 
   ## Credits
-  ${data.credits}
+  * ${data.credits}
 
   ## License
-  ${data.license}
+  * ${data.license}
 
   ## Badges
   ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${data.github}/${data.repo}?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${data.github}/${data.repo}?style=flat&logo=appveyor)
