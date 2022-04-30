@@ -7,7 +7,7 @@ function generateMarkdown(data) {
 
   * ${data.description}
 
-  #
+  
 
   ## Link to the app
   
@@ -46,7 +46,7 @@ function generateMarkdown(data) {
   ## License
   * ${data.license}
 
-  #
+  
 
   ## Badges
   ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${data.github}/${data.repo}?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${data.github}/${data.repo}?style=flat&logo=appveyor)
@@ -58,7 +58,7 @@ function generateMarkdown(data) {
   ## Features
   ${data.features}
 
-  #
+  
 
   ## Questions
   

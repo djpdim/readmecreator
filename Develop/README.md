@@ -5,7 +5,7 @@
 
   * This is a project that allow you to create a readme file direct from Terminal or CLI
 
-  #
+  
 
   ## Link to the app
   
@@ -44,7 +44,7 @@
   ## License
   * MIT
 
-  #
+  
 
   ## Badges
   ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/readmecreator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/readmecreator?style=flat&logo=appveyor)
@@ -56,7 +56,7 @@
   ## Features
   I've created a button that will take you to the top.
 
-  #
+  
 
   ## Questions
   
