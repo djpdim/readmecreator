@@ -3,7 +3,7 @@
   
   ## Description
 
-  * This is a very cool Project!
+  * This is a project that allow you to create a readme file direct from Terminal or CLI
 
   #
 
@@ -19,24 +19,25 @@
 
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Credits](#credits)
   * [License](#license)
+  * [Features](#features)
+  * [Questions](#questions)
 
   
 
   ## Installation
-  * NPM Install
+  * Install NPM
 
   
 
   ## Usage
-  * Use VS Code
+  * Use the VS Code
 
   
 
   ## Credits
-  * TA's and Tutors
+  * TA's and Tutor.
 
   
 
@@ -53,10 +54,10 @@
   
 
   ## Features
-  There is a top button.
+  I've created a button that will take you to the top.
 
   #
-  
+
   ## Questions
   
   For any questions, please contact me to the informations below:
