@@ -7,7 +7,7 @@ Every good project needs a quality README with information about the app - what 
 
 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the [README.md](./Develop/README.md) in this repo as an example.
 
-#
+
 
 ## Link to the app
   
@@ -65,7 +65,7 @@ Finally, fs.writeFile is used to generate your project's README.md file. Check o
 ## License
 * MIT
 
-#
+
 
 ## Badges
 ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/readmecreator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/readmecreator?style=flat&logo=appveyor)
@@ -76,7 +76,7 @@ Check out the badges hosted by [shields.io](https://shields.io/).
 ## Features
 There is a top button.
 
-#
+
   
 ## Questions
   
