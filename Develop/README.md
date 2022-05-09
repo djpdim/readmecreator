@@ -1,68 +1,53 @@
+# Team Profile Generator
 
-  # Readme Gen
-  
-  ## Description
+## Description
 
-  * This is a project that allow you to create a readme file direct from Terminal or CLI
+-   This application was created to generate a team profile based on user input using the Inquirer module from Node.js and displaying the information on a newly created html page with a style sheet. This project demonstrates use of OOP and TDD using Jest.
 
-  
+## Link to the app
 
-  ## Link to the app
-  
-  Link to the github app:[readmecreator](https://github.com/djpdim/readmecreator)
+Link to the github app:[teamprofilegen](https://github.com/djpdim/teamprofilegen)
 
-  Link to the github page:[readmecreator](https://djpdim.github.io/readmecreator/)
+Link to the github page:[teamprofilegen](https://djpdim.github.io/teamprofilegen/)
 
-  
+## Tample of Content
 
-  ## Tample of Content
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Credits](#credits)
+-   [License](#license)
+-   [Features](#features)
+-   [Questions](#questions)
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
-  * [Features](#features)
-  * [Questions](#questions)
+## Installation
 
-  
+-   The user must clone the repo from the GitHub and download Node.js. This app also requires Inquirer so the user must install the NPM.
 
-  ## Installation
-  * Install NPM
+## Usage
 
-  
+-   Use inquirer from your command line to answer questions about your project.
 
-  ## Usage
-  * Use the VS Code
+## Credits
 
-  
+-   Tutor's and TA's
 
-  ## Credits
-  * TA's and Tutor.
+## License
 
-  
+-   MIT
 
-  ## License
-  * MIT
+## Badges
 
-  
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/teamprofilegen?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/teamprofilegen?style=flat&logo=appveyor)
 
-  ## Badges
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/readmecreator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/readmecreator?style=flat&logo=appveyor)
-  
-  Check out the badges hosted by [shields.io](https://shields.io/).
+Check out the badges hosted by [shields.io](https://shields.io/).
 
-  
+## Features
 
-  ## Features
-  I've created a button that will take you to the top.
+## Questions
 
-  
+For any questions, please contact me to the informations below:
 
-  ## Questions
-  
-  For any questions, please contact me to the informations below:
- 
-  * GitHub: [djpdim](https://github.com/djpdim)
-  * Email: [dimospagkas@yahoo.gr](mailto:dimospagkas@yahoo.gr)
+-   GitHub: [djpdim](https://github.com/djpdim)
+-   Email: [dimospagkas@yahoo.gr](mailto:dimospagkas@yahoo.gr)
 
-  [Top](#description)
+[Top](#description)
