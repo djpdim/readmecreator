@@ -1,3 +1,4 @@
+// Function to generate markdown for README
 function generateMarkdown(data) {
     return `
   # ${data.title}
@@ -48,7 +49,13 @@ function generateMarkdown(data) {
 
 
   ## Badges
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${data.github}/${data.repo}?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${data.github}/${data.repo}?style=flat&logo=appveyor)
+
+  ![Badge for GitHub repo count of languages](https://img.shields.io/github/languages/count/${data.github}/${data.repo}?style=flat&logo=appveyor)
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${data.github}/${data.repo}?style=flat&logo=appveyor)
+  ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${data.github}/${data.repo}?style=flat&logo=appveyor)
+  ![Badge for GitHub Code Size](https://img.shields.io/github/languages/code-size/${data.github}/${data.repo}?style=flat&logo=appveyor)
+  ![Badge for GitHub Repo Size](https://img.shields.io/github/repo-size/${data.github}/${data.repo}?style=flat&logo=appveyor)
+  ![Badge for GitHub Total Lines](https://img.shields.io/tokei/lines/github/${data.github}/${data.repo}?style=flat&logo=appveyor)
 
   Check out the badges hosted by [shields.io](https://shields.io/).
 
